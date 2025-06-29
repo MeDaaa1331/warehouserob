@@ -1,5 +1,9 @@
 # MD - WarehouseRob 
 
+
+- Add md-warehouserob and [minigames] to your server and ensure
+
+
 - Warehouse robbing system on Cayo Perico made for OX
 - CD_Dispatch alerts implemented (ex. For U.S. Army)
 - Open code
